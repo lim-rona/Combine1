@@ -1,0 +1,3 @@
+POST /api/registration
+Content-type: application/json
+Accept: application/json
